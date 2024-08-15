@@ -13,7 +13,6 @@ Table of Contents
 Features
 Real-time driving behavior classification
 Data visualization tools for analysis
-Customizable thresholds for different driving categories
 
 Technologies
 Python 3.9
